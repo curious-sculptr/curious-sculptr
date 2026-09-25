@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <h1>Hi, I'm Cheyanne! ✨</h1>
-  <p><i>but you can call me Amanni</i></p>
+  <h1>Hi, I'm Cheyanne!</h1>
+  <p><i>~ but you can call me Amanni ~</i></p>
   <p><b>Just a curious maker exploring the world and learning to code.</b></p>
   
   <!-- LOCAL SECURE ANIMATION -->
@@ -18,7 +18,7 @@
       <p>I’m a creative soul who loves working with my hands, now trying my best to learn how software works! I'm tracking my progress here in the open to stay motivated and meet other learners. I recently moved from America to Indonesia with nothing but a backpack and an open mind. It's a big adventure, and I'm bringing that same slow, steady curiosity to figuring out programming.</p>
     </td>
     <td valign="top" width="50%">
-      <h3>🪵 Things That Make Me Smile</h3>
+      <h3>🏺 Things That Make Me Smile</h3>
       <ul>
         <li>☕ That first sip of coffee.</li>
         <li>⛰️ Hiking trails with a good playlist.</li>
@@ -36,11 +36,11 @@
 <div align="center">
   <h3>🛠️ Things I'm Practicing & Playing With</h3>
   <p>
-    ★ <b>HTML5</b> &nbsp;|&nbsp; 
-    ★ <b>CSS3</b> &nbsp;|&nbsp; 
-    ★ <b>UI/UX Design</b> &nbsp;|&nbsp; 
-    ★ <b>Electronics / Hardware</b> &nbsp;|&nbsp; 
-    ★ <b>Nintendo Ecosystem</b> &nbsp;|&nbsp; 
+    ★ <b>HTML5</b> &nbsp;&nbsp; 
+    ★ <b>CSS3</b> &nbsp;&nbsp; 
+    ★ <b>UI/UX Design</b> &nbsp;&nbsp; 
+    ★ <b>Electronics / Hardware</b> &nbsp;&nbsp; 
+    ★ <b>Nintendo Ecosystem</b> &nbsp;&nbsp; 
     ★ <b>VS Code</b>
   </p>
 </div>
@@ -71,9 +71,9 @@
 <div align="center">
   <h3>🔗 Let's Say Hi!</h3>
   <p>
-    🎒 <a href="https://freecodecamp.org" target="_blank"><b>freeCodeCamp Profile</b></a> &nbsp;•&nbsp; 
-    💼 <a href="https://linkedin.com" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-    🖼️ <a href="https://behance.net" target="_blank"><b>Behance Portfolio</b></a> &nbsp;•&nbsp;
-    📊 <a href="https://github.com" target="_blank"><b>See What I'm Clicking & Building</b></a>
+     <a href="https://freecodecamp.org" target="_blank"><b>freeCodeCamp Profile</b></a> &nbsp;•&nbsp; 
+     <a href="https://linkedin.com" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
+     <a href="https://behance.net" target="_blank"><b>Behance Portfolio</b></a> &nbsp;•&nbsp;
+     <a href="https://github.com" target="_blank"><b>See What I'm Clicking & Building</b></a>
   </p>
 </div>
