@@ -1,14 +1,13 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <h1>👋 Hi, I'm Cheyanne!</h1>
-  <small><h2><em>but you can call me Amanni</em></h2></small>
+  <p><i>but you can call me Amanni</i></p>
   <p><b>Learning, building, and exploring one step at a time.</b></p>
   
-  <!-- Earthy dark background with an organic, bright pop of color -->
-  <marquee scrollamount="3" bgcolor="#2d241e" style="color: #ff9f43; padding: 6px; font-family: monospace; border-radius: 4px;">
-    ⛰️ CURRENT STATUS: Learning the ropes with freeCodeCamp // Grateful to be coding today!
-  </marquee>
-</div>
+  <!-- Playful Pixel Art Dog Animation (Guaranteed Live Asset Node) -->
+ <img src="./animation.gif" width="100" alt="My Profile Animation">
+ </div>
+
 
 <br>
 
@@ -36,13 +35,14 @@
 <!-- TECH & DESIGN BOX -->
 <h3>🛠️ Things I'm Practicing & Using</h3>
 <p>
-  <img src="https://shields.io" alt="HTML5" style="display:inline;">
-  <img src="https://shields.io" alt="UIUX" style="display:inline;">
-  <img src="https://shields.io" alt="Electronics" style="display:inline;">
-  <img src="https://shields.io" alt="Nintendo" style="display:inline;">
-  <img src="https://shields.io" alt="VS Code" style="display:inline;">
+  ★ <b>HTML5</b> &nbsp;|&nbsp; 
+  ★ <b>UI/UX Design (Figma)</b> &nbsp;|&nbsp; 
+  ★ <b>Electronics / Hardware</b> &nbsp;|&nbsp; 
+  ★ <b>Nintendo Ecosystem</b> &nbsp;|&nbsp; 
+  ★ <b>VS Code</b>
 </p>
 
+<br>
 
 <!-- COLLAPSIBLE ACCORDION PORTFOLIO -->
 <h3>📂 Curiosity Corners</h3>
@@ -59,23 +59,18 @@
 
 <br>
 
-<!-- DYNAMIC STATS CARD -->
+<!-- CONNECT LINKS & LIVE STATS LINK -->
 <div align="center">
-  <h3>📊 My GitHub Journey</h3>
-  <img src="https://vercel.app" alt="My Stats">
-  
-  <br><br>
-  
-  <!-- CONNECT BUTTONS -->
+  <h3>🔗 Let's Connect</h3>
   <p>
-    <a href="https://freecodecamp.org" target="_blank">
-      <img src="https://shields.io" alt="freeCodeCamp" style="display:inline;">
-    </a>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" style="display:inline;">
-    </a>
-    <a href="https://behance.net" target="_blank">
-      <img src="https://shields.io" alt="Behance" style="display:inline;">
-    </a>
+    🎒 <a href="https://freecodecamp.org" target="_blank"><b>freeCodeCamp Profile</b></a> &nbsp;•&nbsp; 
+    💼 <a href="https://linkedin.com" target="_blank"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
+    🖼️ <a href="https://behance.net" target="_blank"><b>Behance Portfolio</b></a> &nbsp;•&nbsp;
+    📊 <a href="https://github.com" target="_blank"><b>View My Live Activity & Stats</b></a>
   </p>
+  <br>
+</div>
 
+    ⚡ System Status: Exploring Code / Assembling Ideas... 🛠️
+  </marquee>
+</div>
